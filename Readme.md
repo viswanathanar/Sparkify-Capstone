@@ -18,7 +18,7 @@ Only a small sample of the data is stored on the data folder as github prevents 
 <p><strong>Modeling</strong></p>
 <p>Since our focus is on predicting churn, I decided to use the below 3 features as labels: ChurnedInTimeBin, WillChurnInNextBin, and WillChurnSoon and applied 3 different models (Logistic Regression, Random Forest and GBM) resulting in 9 different models to see which one does a closer prediction when it comes to churn. Moreover we use AUC-PR as a evaluation criteria make a prediction to overcome class-imbalance problem. Also performed hyperparameter tuning by employing a grid search to see which parameter yields better results. Best  Models are stored on the Model folder.</p>
 <p><strong>Documentation</strong><br>
-Detailed documentation can be found on my blog post.<code>https://medium.com/churn-prediction-modeling-with-pyspark</code></p>
+Detailed documentation can be found on my <a href="https://medium.com/churn-prediction-modeling-with-pyspark">blog post</a></p>
 <p><strong>References</strong></p>
 <ol>
 <li><a href="https://dl.acm.org/citation.cfm?id=114387">https://dl.acm.org/citation.cfm?id=114387</a></li>
