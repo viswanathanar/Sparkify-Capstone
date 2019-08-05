@@ -8,6 +8,8 @@
 <p>Sparkify is a fictious music streaming app, which contains two months of user behavior log in which few users have churned out and it is essential to know which users will churn out in future and make corrective actions to retain them. This is the main motivation of this Project.</p>
 <p><strong>Data</strong><br>
 Only a small sample of the data is stored on the data folder as github prevents storage of file size beyond 100 MB.</p>
+<p><strong>File Structure</strong><br>
+<img title="File Description" alt="enter image description here" src="https://lh3.googleusercontent.com/l3TLvSYeyibYnx7MGCojtymXTntuoUmhgJChfTBASiLdpYuk567gC0XM-pGc8P80OtLTa4hh3D2a"></p>
 <p><strong>Code</strong></p>
 <ul>
 <li>Sparkify_Capstone_Project- Part1.ipynb - Loading &amp; Exploration of the input data</li>
