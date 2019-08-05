@@ -32,8 +32,7 @@ Thanks to <a href="https://eu.udacity.com/">Udacity</a> for providing such a cha
 <li><a href="https://dl.acm.org/citation.cfm?id=114387">https://dl.acm.org/citation.cfm?id=114387</a></li>
 <li><a href="https://dl.acm.org/citation.cfm?id=1143874">https://dl.acm.org/citation.cfm?id=1143874</a></li>
 <li><a href="https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/">https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/</a></li>
-<li><a href="https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/">https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/</a><br>
-<a href="https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/">https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/">https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/</a></li>
 </ol>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
