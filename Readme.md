@@ -29,9 +29,9 @@ This project uses <strong>Python 3.7.3</strong> and the standard libraries used 
 Thanks to <a href="https://eu.udacity.com/">Udacity</a> for providing such a challenging dataset, where the learners have to get exposed to processing JSON objects and use Spark to load, clean, transform &amp; model huge dataset.</p>
 <p><strong>References</strong></p>
 <ol>
-<li><a href="https://dl.acm.org/citation.cfm?id=114387">https://dl.acm.org/citation.cfm?id=114387</a></li>
 <li><a href="https://dl.acm.org/citation.cfm?id=1143874">https://dl.acm.org/citation.cfm?id=1143874</a></li>
-<li><a href="https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/">https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/</a></li>
+<li><a href="https://docs.databricks.com/spark/latest/mllib/binary-classification-mllib-pipelines.html">https://docs.databricks.com/spark/latest/mllib/binary-classification-mllib-pipelines.html</a></li>
+<li><a href="https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa">https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa</a></li>
 <li><a href="https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/">https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/</a></li>
 </ol>
 <blockquote>
